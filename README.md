@@ -7,4 +7,4 @@ This plugin is provided for Moneta merchants using Opencart.
 
 Got a question? Email platebnibrana@monetaplatebnisluzby.cz for assistance.
 
-For instructions on how to install the plugin on Opencart please go to our Wiki [here](https://github.com/moneta-money-bank/OpenCart/wiki/Installation-of-Moneta-Plugin-for-OpenCart.).
+For instructions on how to install the plugin on Opencart please go to our Wiki [here](https://github.com/moneta-money-bank/OpenCart/wiki/Installation-of-Moneta-Plugin-for-OpenCart).
