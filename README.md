@@ -1,7 +1,5 @@
 # OpenCart
 OpenCart plugin for Moneta 
-# Opencart
-
 
 [![GitHub license](https://img.shields.io/github/license/moneta-money-bank/Opencart)](https://github.com/moneta-money-bank/Opencart/blob/master/LICENSE) ![Version](https://img.shields.io/badge/version-1.1.0-informational)
 
